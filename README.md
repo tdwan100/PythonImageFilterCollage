@@ -1,5 +1,7 @@
 # Image Processing Toolkit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains a collection of image processing functions and filters written in Python using the `image` library. The functions provided here can be used to manipulate images in various ways and create interesting effects.
 
 ## Table of Contents
@@ -92,7 +94,3 @@ originalImage = FileImage("YourImageFile.jpg")
 ## Contributing
 
 Contributions to this project are welcome. Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
