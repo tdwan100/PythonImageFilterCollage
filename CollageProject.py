@@ -2,7 +2,7 @@ import math
 #from PIL import Image
 #import PIL
 import image
-originalImage = image.FileImage("project6/liam.jpg")
+originalImage = image.FileImage("YourImage.jpg")
 
 def convolve(originalImage, pixelRow, pixelCol, kernel):
     kernelColBase = pixelCol - 1
